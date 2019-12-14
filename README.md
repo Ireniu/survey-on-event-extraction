@@ -4,11 +4,11 @@
 ## Labeling Functions
 Labeling functions of each dataset are demonstrated in the corresponding folder. They generate labels from different perspectives.
 
-1. AGnews: 8 heuristic rules on **keywords**
-2. IMDB: 4 heuristic rules on **keywords** and 4 heuristic rules on **expressions**
-3. Spouse: same as [Snorkel-spouse][1]
-4. Yelp: 7 heuristic rules on **keywords** and 1 thirdparty model (TextBlob) on **polarity of sentiment**
-5. Youtube: same as [Snorkel-spam][2] 
+- AGnews: 8 heuristic rules on **keywords**
+- IMDB: 4 heuristic rules on **keywords** and 4 heuristic rules on **expressions**
+- Spouse: same as [Snorkel-spouse][1]
+- Yelp: 7 heuristic rules on **keywords** and 1 thirdparty model (TextBlob) on **polarity of sentiment**
+- Youtube: same as [Snorkel-spam][2] 
 
 [1]: https://github.com/snorkel-team/snorkel-tutorials/blob/master/spouse/spouse_demo.ipynb "Spouse"
 [2]: https://github.com/snorkel-team/snorkel-tutorials/blob/master/spam/01_spam_tutorial.ipynb "Youtube"
